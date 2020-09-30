@@ -1,4 +1,6 @@
 # sums_inner
+![alt-text](https://github.com/Sums-shadow/inner_sums/blob/master/inner_example.png?raw=true)
+
 ```
 InnerShadow(
             blur: 5,
