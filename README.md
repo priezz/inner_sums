@@ -1,5 +1,18 @@
 # sums_inner
-
+```
+InnerShadow(
+            blur: 5,
+            color:  Colors.grey,
+            offset: const Offset(5, 5),
+            child: Container(
+              decoration: const BoxDecoration(
+                borderRadius: BorderRadius.all(Radius.circular(8)),
+                color: Color(0xFFE9EFEC),
+              ),
+              height: 100,
+            ),
+          )
+```
 A flutter projet for making inner shadow to widget made by ezechiel sums.
 
 ## Getting Started

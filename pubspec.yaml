@@ -1,6 +1,7 @@
 name: sums_inner
 description: An inner shadow made by ezechiel sums.
 
+homepage: https://github.com/Sums-shadow/inner_sums.git
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
 
